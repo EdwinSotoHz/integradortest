@@ -3,6 +3,7 @@
 # Integrantes
 
 ## Lizbeth de Jesús Bernal Franco 
+[Mi pagina personal Liz](https://lizbernal.github.io/)
 
 ## Karen Pérez Ortiz 
 
