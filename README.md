@@ -5,6 +5,7 @@
 ## Lizbeth de Jesús Bernal Franco 
 
 ## Karen Pérez Ortiz 
+[Karen github](https://karenperezor.github.io)
 
 ## José María Ortiz Escamilla
 
