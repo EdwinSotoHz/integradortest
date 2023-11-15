@@ -6,6 +6,7 @@
 [Mi pagina personal Liz](https://lizbernal.github.io/)
 
 ## Karen Pérez Ortiz 
+[Karen github](https://karenperezor.github.io)
 
 ## José María Ortiz Escamilla
 
