@@ -12,5 +12,7 @@
 
 ## Dilan Emir Ángeles Martínez
 
+[Dilan github](https://dangeles05.github.io)
+
 ## Joel Monroy Ramirez
 
