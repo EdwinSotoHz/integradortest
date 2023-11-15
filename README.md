@@ -9,7 +9,7 @@
 ## José María Ortiz Escamilla
 
 ## Edwin Salvador Soto Hernández
-
+[Edwin Página Personal](https://edwinsotohz.github.io/)
 ## Dilan Emir Ángeles Martínez
 
 [Dilan github](https://dangeles05.github.io)
