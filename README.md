@@ -9,7 +9,8 @@
 [Karen github](https://karenperezor.github.io)
 
 ## José María Ortiz Escamilla
-[Mi pagína personal](https://joseoe.github.io)
+[Mi pagína personal LOL](https://joseoe.github.io)
+
 ## Edwin Salvador Soto Hernández
 [Edwin Página Personal](https://edwinsotohz.github.io/)
 ## Dilan Emir Ángeles Martínez
